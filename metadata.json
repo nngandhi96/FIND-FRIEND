@@ -1,0 +1,6 @@
+{
+  "name": "FindFriend",
+  "description": "Ethical and secure public social profile discovery assistant via reverse photo & metadata matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
